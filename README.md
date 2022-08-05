@@ -5,5 +5,5 @@ Brazilian, living in Porto, Portugal.
 
 ## 🌍 Find me around the web
 
-- [Site](https://helderburato.com) <br>
-- [LinkedIn](https://www.linkedin.com/in/helderburato)
+- [Site](https://helderberto.com) <br>
+- [LinkedIn](https://www.linkedin.com/in/helderberto)
