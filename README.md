@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Helder B. Berto
+## 👋 Hey there, I'm Helder Berto
 
 Senior Software Engineer at <a href="https://www.pagerduty.com/" target="blank">PagerDuty</a>. <br>
 Brazilian, living in Porto, Portugal.
