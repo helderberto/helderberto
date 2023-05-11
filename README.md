@@ -2,7 +2,7 @@
 
 I'm a Brazilian Software Engineer based in Portugal. <br>
 
-Currently, I'm a Senior Software Engineer - Front-end at <a href="https://www.pagerduty.com/" target="blank">PagerDuty</a>. <br>
+Currently, I'm a Senior Front-end Engineer at <a href="https://www.pagerduty.com/" target="blank">PagerDuty</a>. <br>
 
 
 ## 🌍 Find me around the web
