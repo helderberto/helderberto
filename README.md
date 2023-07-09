@@ -1,11 +1,12 @@
-## 👋 Hi, I'm Helder! 
+<h3 align="center">👋 Hi, I'm Helder.</h3>
 
-Brazilian Software Engineer based in Portugal. <br>
+<p align="center">
+  <a href="https://helderberto.com/">Website</a> •
+  <a href="https://www.linkedin.com/in/helderberto">LinkedIn</a>
+</p>
 
-Currently, I'm a Senior Software Engineer - Front-End at <a href="https://www.pagerduty.com/" target="blank">PagerDuty</a>. <br>
+---
 
+I'm a Senior Software Engineer - Front-End at [PagerDuty](https://pagerduty.com/).
 
-## 🌍 Find me around the web
-
-- [Site](https://helderberto.com) <br>
-- [LinkedIn](https://www.linkedin.com/in/helderberto)
+I like making open-source libraries in TypeScript and JavaScript, and build user interfaces using React.
