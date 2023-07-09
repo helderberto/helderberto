@@ -1,6 +1,6 @@
-## Hey there! 👋
+## 👋 Hi, I'm Helder! 
 
-I'm a Brazilian Software Engineer based in Portugal. <br>
+Brazilian Software Engineer based in Portugal. <br>
 
 Currently, I'm a Senior Software Engineer - Front-End at <a href="https://www.pagerduty.com/" target="blank">PagerDuty</a>. <br>
 
