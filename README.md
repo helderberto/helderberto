@@ -7,6 +7,6 @@
 
 ---
 
-Currently, I'm a Senior Software Engineer — Front-End at <a href="https://www.pagerduty.com/" target="_blank" rel="noreferrer">PagerDuty</a>, where my main focus lies in enhancing and creating user interfaces for our customers.
+Currently, I'm a Senior Software Engineer — Front-End at <a href="https://www.pagerduty.com/" target="_blank" rel="noreferrer">PagerDuty</a>, where my main focus lies in enhancing and creating user interfaces for the PagerDuty platform.
 
 I like making open-source libraries in TypeScript and JavaScript, and build user interfaces using React.
