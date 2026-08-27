@@ -3,7 +3,6 @@
 Senior Software Engineer, Frontend @ [PagerDuty](https://www.pagerduty.com/) · Braga, Portugal
 
 [Website](https://helderberto.com/) •
-[Blog](https://helderberto.com/posts) •
 [Resume](https://resume.helderberto.com) •
 [LinkedIn](https://www.linkedin.com/in/helderberto)
 
