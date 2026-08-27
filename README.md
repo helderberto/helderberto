@@ -1,16 +1,14 @@
-<h2 align="center">👋 Hi, I'm Helder</h2>
+## 👋 Hi, I'm Helder
 
-<p align="center">
-  Senior Software Engineer, Frontend @ <a href="https://www.pagerduty.com/">PagerDuty</a> · Braga, Portugal
-</p>
+Senior Software Engineer, Frontend @ [PagerDuty](https://www.pagerduty.com/) · Braga, Portugal
 
-<p align="center">
-  <a href="https://helderberto.com/">Website</a> •
-  <a href="https://helderberto.com/posts">Blog</a> •
-  <a href="https://resume.helderberto.com">Resume</a> •
-  <a href="https://www.linkedin.com/in/helderberto">LinkedIn</a>
-</p>
+[Website](https://helderberto.com/) •
+[Blog](https://helderberto.com/posts) •
+[Resume](https://resume.helderberto.com) •
+[LinkedIn](https://www.linkedin.com/in/helderberto)
 
-<p align="center">
-  I like making open-source libraries in TypeScript, and build user interfaces using React.
-</p>
+---
+
+I build user interfaces with React and TypeScript.
+
+Lately: AI-assisted development with Claude Code, and maintaining my own [agent skills](https://github.com/helderberto/agent-skills).
