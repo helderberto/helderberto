@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Helder
 
-Senior Software Engineer, Frontend @ [PagerDuty](https://www.pagerduty.com/) · Braga, Portugal
+Senior Software Engineer, Frontend @ [PagerDuty](https://www.pagerduty.com/) · Portugal
 
 [Website](https://helderberto.com/) •
 [Resume](https://resume.helderberto.com) •
